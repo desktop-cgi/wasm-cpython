@@ -1,2 +1,2 @@
 # wasm-cpython
-wasm-cpython wasm file to run cpython files in nodejs environment
+wasm-cython wasm file to run cython files in nodejs environment
